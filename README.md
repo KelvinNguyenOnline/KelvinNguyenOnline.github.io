@@ -5,4 +5,4 @@
 # work experience
 
 
-(assets/images/final minion front page.png)
+(/assets/images/final minion front page.png)
